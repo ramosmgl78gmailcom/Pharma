@@ -3,10 +3,7 @@ Pharma software
 
 Pharmacology applications for vaccine and antiviral development, specifically for coronaviruses (i.e. SARS-CoV2/MERS), filoviruses (i.e. Ebola) and retroviruses (i.e. HIV)
 
-Pharmaceutical biotechnology (Vaccines, engineered vectors...)
-Virology
-Microbiology
-ADN/RNA analysis sequences
+Pharmaceutical biotechnology (Vaccines, engineered vectors...), virology, microbiology, ADN/RNA analysis sequences
 
 -------------------------------------------------------------------------------------------------------------------
 
